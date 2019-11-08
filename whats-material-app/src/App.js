@@ -10,9 +10,9 @@ import RightContainer from './RightContainer';
 import styles from './StylesApp'
 
 const list = [
-  { id: 1, name: "Diego", text: "Lorem ipsum", image: <ImageIcon /> },
-  { id: 2, name: "Robson", text: "Lorem ipsum", image: <WorkIcon /> },
-  { id: 3, name: "Cleiton", text: "Lorem ipsum", image: <BeachAccessIcon /> }
+  { id: 1, name: "Rodrigo", text: "Lorem ipsum", image: <ImageIcon /> },
+  { id: 2, name: "Joao", text: "Lorem ipsum", image: <WorkIcon /> },
+  { id: 3, name: "Maria", text: "Lorem ipsum", image: <BeachAccessIcon /> }
 ];
 
 const App = ({classes}) => (
